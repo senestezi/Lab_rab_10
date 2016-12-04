@@ -1,0 +1,5 @@
+<root>
+    <item name='android.graphics.Canvas void drawText(java.lang.String, float, float, android.graphics.Paint)'>
+        <annotation name='java.lang.Deprecated'/>
+    </item>
+</root>
